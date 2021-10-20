@@ -14,6 +14,6 @@ int main(){
 				}}
 		double k;
 		k=(sum-max-min)/(n-2);
-		printf("%.2lf ",k);
+		printf("%.2lf\n",k);
 	}return 0;
 }
